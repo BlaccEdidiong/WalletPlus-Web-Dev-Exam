@@ -1,0 +1,45 @@
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Console\bin\Debug\net6.0\SmtWallet.Console.exe
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Console\bin\Debug\net6.0\SmtWallet.Console.deps.json
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Console\bin\Debug\net6.0\SmtWallet.Console.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Console\bin\Debug\net6.0\SmtWallet.Console.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Console\bin\Debug\net6.0\SmtWallet.Console.pdb
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Console\obj\Debug\net6.0\SmtWallet.Console.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Console\obj\Debug\net6.0\SmtWallet.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Console\obj\Debug\net6.0\SmtWallet.Console.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Console\obj\Debug\net6.0\SmtWallet.Console.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Console\obj\Debug\net6.0\SmtWallet.Console.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Console\obj\Debug\net6.0\SmtWallet.Console.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Console\obj\Debug\net6.0\refint\SmtWallet.Console.dll
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Console\obj\Debug\net6.0\SmtWallet.Console.pdb
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Console\obj\Debug\net6.0\SmtWallet.Console.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\SmtWallet\SmtWallet.Console\obj\Debug\net6.0\ref\SmtWallet.Console.dll
+D:\web development folder\SmtWallet\SmtWallet.Console\bin\Debug\net6.0\SmtWallet.Console.exe
+D:\web development folder\SmtWallet\SmtWallet.Console\bin\Debug\net6.0\SmtWallet.Console.deps.json
+D:\web development folder\SmtWallet\SmtWallet.Console\bin\Debug\net6.0\SmtWallet.Console.runtimeconfig.json
+D:\web development folder\SmtWallet\SmtWallet.Console\bin\Debug\net6.0\SmtWallet.Console.dll
+D:\web development folder\SmtWallet\SmtWallet.Console\bin\Debug\net6.0\ref\SmtWallet.Console.dll
+D:\web development folder\SmtWallet\SmtWallet.Console\bin\Debug\net6.0\SmtWallet.Console.pdb
+D:\web development folder\SmtWallet\SmtWallet.Console\obj\Debug\net6.0\SmtWallet.Console.csproj.AssemblyReference.cache
+D:\web development folder\SmtWallet\SmtWallet.Console\obj\Debug\net6.0\SmtWallet.Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\web development folder\SmtWallet\SmtWallet.Console\obj\Debug\net6.0\SmtWallet.Console.AssemblyInfoInputs.cache
+D:\web development folder\SmtWallet\SmtWallet.Console\obj\Debug\net6.0\SmtWallet.Console.AssemblyInfo.cs
+D:\web development folder\SmtWallet\SmtWallet.Console\obj\Debug\net6.0\SmtWallet.Console.csproj.CoreCompileInputs.cache
+D:\web development folder\SmtWallet\SmtWallet.Console\obj\Debug\net6.0\SmtWallet.Console.dll
+D:\web development folder\SmtWallet\SmtWallet.Console\obj\Debug\net6.0\ref\SmtWallet.Console.dll
+D:\web development folder\SmtWallet\SmtWallet.Console\obj\Debug\net6.0\SmtWallet.Console.pdb
+D:\web development folder\SmtWallet\SmtWallet.Console\obj\Debug\net6.0\SmtWallet.Console.genruntimeconfig.cache
+C:\Users\Edidiong Amos\Desktop\SmtWallet\SmtWallet.Console\bin\Debug\net6.0\SmtWallet.Console.exe
+C:\Users\Edidiong Amos\Desktop\SmtWallet\SmtWallet.Console\bin\Debug\net6.0\SmtWallet.Console.deps.json
+C:\Users\Edidiong Amos\Desktop\SmtWallet\SmtWallet.Console\bin\Debug\net6.0\SmtWallet.Console.runtimeconfig.json
+C:\Users\Edidiong Amos\Desktop\SmtWallet\SmtWallet.Console\bin\Debug\net6.0\SmtWallet.Console.dll
+C:\Users\Edidiong Amos\Desktop\SmtWallet\SmtWallet.Console\bin\Debug\net6.0\SmtWallet.Console.pdb
+C:\Users\Edidiong Amos\Desktop\SmtWallet\SmtWallet.Console\obj\Debug\net6.0\SmtWallet.Console.csproj.AssemblyReference.cache
+C:\Users\Edidiong Amos\Desktop\SmtWallet\SmtWallet.Console\obj\Debug\net6.0\SmtWallet.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edidiong Amos\Desktop\SmtWallet\SmtWallet.Console\obj\Debug\net6.0\SmtWallet.Console.AssemblyInfoInputs.cache
+C:\Users\Edidiong Amos\Desktop\SmtWallet\SmtWallet.Console\obj\Debug\net6.0\SmtWallet.Console.AssemblyInfo.cs
+C:\Users\Edidiong Amos\Desktop\SmtWallet\SmtWallet.Console\obj\Debug\net6.0\SmtWallet.Console.csproj.CoreCompileInputs.cache
+C:\Users\Edidiong Amos\Desktop\SmtWallet\SmtWallet.Console\obj\Debug\net6.0\SmtWallet.Console.dll
+C:\Users\Edidiong Amos\Desktop\SmtWallet\SmtWallet.Console\obj\Debug\net6.0\refint\SmtWallet.Console.dll
+C:\Users\Edidiong Amos\Desktop\SmtWallet\SmtWallet.Console\obj\Debug\net6.0\SmtWallet.Console.pdb
+C:\Users\Edidiong Amos\Desktop\SmtWallet\SmtWallet.Console\obj\Debug\net6.0\SmtWallet.Console.genruntimeconfig.cache
+C:\Users\Edidiong Amos\Desktop\SmtWallet\SmtWallet.Console\obj\Debug\net6.0\ref\SmtWallet.Console.dll
